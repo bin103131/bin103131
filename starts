@@ -1,0 +1,17 @@
+# 안녕하세요, 원빈입니다
+
+서울시립대학교 공간정보공학과 4학년.
+공간 데이터와 머신러닝을 엮는 분석에 관심이 있습니다.
+
+## 관심 분야
+- 공간 데이터 분석 (PostGIS, ArcGIS Pro, GeoPandas)
+- 머신러닝 기반 공간 예측 (Random Forest, XGBoost, GeoShapley)
+- 공간통계 (GWR, 공간자기상관)
+
+## 자격
+빅데이터분석기사 · ADsP · OPIc IH
+
+## 프로젝트
+- **부산 청년인구 유출 분석** — GeoShapley + Random Forest, 250m 격자 단위
+- **드론 사진측량 기반 배리어프리 분석** — Metashape DSM, 경사 변화 탐지
+- **젠트리피케이션 예측** — 머신러닝 기반, 공모전 수상
